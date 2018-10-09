@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails5のAPIモードを使ってRESTful APIを作っていきます。
 
-Things you may want to cover:
+Qiitaの⬇︎こちらを見てみてください。
+https://qiita.com/akuraya/items/f7b9e6abd2248c5b3d0f
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+設定としてはバラバラのシステムに入ってる運転手のデータを共有するAPIみたいなイメージです
